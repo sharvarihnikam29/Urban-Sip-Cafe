@@ -1,0 +1,6 @@
+{
+  "name": "Urban Sip Cafe",
+  "description": "A modern, luxury Indian café featuring artisanal coffees, milkshakes, momos, burgers, pizzas, and cozy ambience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
